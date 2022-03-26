@@ -118,5 +118,5 @@ function noEffect() {
 
 setInterval(sow,10)
 function sow() {
-			document.getElementById("sower").innerHTML=cc2Bool+"   "+store.innerHTML
+			//document.getElementById("sower").innerHTML=cc2Bool+"   "+store.innerHTML
 }
