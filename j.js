@@ -127,8 +127,12 @@ window.onerror= function () {
 setInterval(sow,10)
 function sow() {
 			//document.getElementById("sower").innerHTML=cc2Bool+"   "+store.innerHTML
+<<<<<<< HEAD
 }
 <<<<<<< HEAD
 */
 =======
 >>>>>>> parent of da92afd (Update j.js)
+=======
+}/*
+>>>>>>> parent of 962c436 (fixed bug)
