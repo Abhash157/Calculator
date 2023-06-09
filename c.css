@@ -151,15 +151,6 @@ body{
 			background: #b0b0b0;
 }
 
-/*#point{
-			background: linear-gradient(to right,#ff6950,#ff3f15);
-}
-#point:hover{
-			background: linear-gradient(to right,#ff6950dd,#ff3f15dd);
-}
-#point:active{
-			background: #ff4515;
-}*/
 
 .op{
 			background: #c7c7c7;
@@ -170,17 +161,6 @@ body{
 .op:active{
 			background: #999;
 }
-/*#equal{
-			background: #5de74daa;
-}
-#equal:hover{
-			background: #5de74dc7;
-}
-#equal:active{
-			background: #5de74dee;
-}
-*/
-
 
 #store{
 			display:none;
